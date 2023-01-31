@@ -1,0 +1,20 @@
+{
+    "name": "ejn/php_ogr-testsuite",
+    "description": "Testsuite for PHP_OGR extension",
+    "homepage": "https://github.com/ejn/php_ogr",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+      "php": "^7.3|^8",
+      "phpunit/phpunit": "^9"
+    },
+    "autoload": {
+      "psr-4": {
+        "": "src/tests/"
+      },
+      "files": [
+        "src/util.php"
+      ]
+    }
+}
+
