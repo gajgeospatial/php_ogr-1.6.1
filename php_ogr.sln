@@ -6,24 +6,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "php_ogr", "php_ogr\php_ogr.
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		vs2019_Debug|x64 = vs2019_Debug|x64
-		vs2019_Debug|x86 = vs2019_Debug|x86
-		vs2019_Release|x64 = vs2019_Release|x64
-		vs2019_Release|x86 = vs2019_Release|x86
 		vs2022_Debug|x64 = vs2022_Debug|x64
 		vs2022_Debug|x86 = vs2022_Debug|x86
 		vs2022_Release|x64 = vs2022_Release|x64
 		vs2022_Release|x86 = vs2022_Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DA14C4BE-11CF-4D8F-974F-2F9AF83E36F4}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
-		{DA14C4BE-11CF-4D8F-974F-2F9AF83E36F4}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
-		{DA14C4BE-11CF-4D8F-974F-2F9AF83E36F4}.vs2019_Debug|x86.ActiveCfg = vs2019_Debug|Win32
-		{DA14C4BE-11CF-4D8F-974F-2F9AF83E36F4}.vs2019_Debug|x86.Build.0 = vs2019_Debug|Win32
-		{DA14C4BE-11CF-4D8F-974F-2F9AF83E36F4}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
-		{DA14C4BE-11CF-4D8F-974F-2F9AF83E36F4}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
-		{DA14C4BE-11CF-4D8F-974F-2F9AF83E36F4}.vs2019_Release|x86.ActiveCfg = vs2019_Release|Win32
-		{DA14C4BE-11CF-4D8F-974F-2F9AF83E36F4}.vs2019_Release|x86.Build.0 = vs2019_Release|Win32
 		{DA14C4BE-11CF-4D8F-974F-2F9AF83E36F4}.vs2022_Debug|x64.ActiveCfg = vs2022_Debug|x64
 		{DA14C4BE-11CF-4D8F-974F-2F9AF83E36F4}.vs2022_Debug|x64.Build.0 = vs2022_Debug|x64
 		{DA14C4BE-11CF-4D8F-974F-2F9AF83E36F4}.vs2022_Debug|x86.ActiveCfg = vs2022_Debug|Win32
